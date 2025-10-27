@@ -53,3 +53,10 @@ The dashboard includes:
 **Foram Patel**  
 📧 [forampatel14700@gmail.com](mailto:forampatel14700@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/forum-patel-77b781312)
+
+---
+
+### 🖼️ Dashboard Preview  
+Below is a snapshot of the Fashion Sales Dashboard created in Power BI:  
+
+![Dashboard Overview](dashboard.png)
